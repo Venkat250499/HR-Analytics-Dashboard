@@ -1,1 +1,1 @@
-# Power-BI-Projects
+This Power BI dashboard provides a comprehensive analysis of employee attrition and retention patterns within the organization. It offers valuable insights to HR managers and business leaders to help them understand the factors influencing employee turnover and develop effective retention strategies.
